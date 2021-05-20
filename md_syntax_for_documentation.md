@@ -71,9 +71,9 @@ main()
 |182121a15|kishore|P|
 |198643|kirthi|P|
 
-- [X ] Headings
-- [ X] Image
-- [ X] Hyperlink
+- [X] Headings
+- [X] Image
+- [X] Hyperlink
 - [ ] lists
 - [X] strikeoff line
 
